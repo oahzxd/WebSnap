@@ -1,8 +1,7 @@
-gcc -o snap snap.c -lpcap
-gcc -o convert convert.c -lz
-chmod +x snap
-chmod +x convert
+gcc -o snap snap.c -lpcap ＜/br＞
+gcc -o convert convert.c -lz ＜/br＞
+chmod +x snap ＜/br＞
+chmod +x convert ＜/br＞
 
-
-sudo ./snap 
-sudo ./convert
+sudo ./snap  ＜/br＞
+sudo ./convert ＜/br＞
