@@ -6,6 +6,7 @@ ipv4环境
 2. 编译：
 gcc -o snap snap.c -lpcap
 gcc -o convert convert.c -lz
+也许需要
 chmod +x snap
 chmod +x convert
 
